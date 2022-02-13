@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9bc11f32.chunk.css",
+    "main.js": "/static/js/main.d47c9542.chunk.js",
+    "main.js.map": "/static/js/main.d47c9542.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.24258e3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.24258e3e.js.map",
+    "static/js/2.4b8a3841.chunk.js": "/static/js/2.4b8a3841.chunk.js",
+    "static/js/2.4b8a3841.chunk.js.map": "/static/js/2.4b8a3841.chunk.js.map",
+    "static/js/3.01907555.chunk.js": "/static/js/3.01907555.chunk.js",
+    "static/js/3.01907555.chunk.js.map": "/static/js/3.01907555.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9bc11f32.chunk.css.map": "/static/css/main.9bc11f32.chunk.css.map",
+    "static/js/2.4b8a3841.chunk.js.LICENSE.txt": "/static/js/2.4b8a3841.chunk.js.LICENSE.txt",
+    "static/media/3969587.0e356a6a.jpg": "/static/media/3969587.0e356a6a.jpg",
+    "static/media/binaries_logo.a66b7e3d.png": "/static/media/binaries_logo.a66b7e3d.png",
+    "static/media/binaries_logo_w.5dfbf416.png": "/static/media/binaries_logo_w.5dfbf416.png",
+    "static/media/logo.3523f701.jpg": "/static/media/logo.3523f701.jpg",
+    "static/media/movie.e1f9001d.png": "/static/media/movie.e1f9001d.png",
+    "static/media/not_found.9059331c.jpg": "/static/media/not_found.9059331c.jpg",
+    "static/media/profile_pic.f2b1fd39.png": "/static/media/profile_pic.f2b1fd39.png",
+    "static/media/siddharthaNews.fd02272e.png": "/static/media/siddharthaNews.fd02272e.png",
+    "static/media/smileDentalCare.11d24c9c.png": "/static/media/smileDentalCare.11d24c9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24258e3e.js",
+    "static/js/2.4b8a3841.chunk.js",
+    "static/css/main.9bc11f32.chunk.css",
+    "static/js/main.d47c9542.chunk.js"
+  ]
+}
